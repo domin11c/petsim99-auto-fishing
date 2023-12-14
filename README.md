@@ -2,7 +2,7 @@
 Pet Simulator 99 Auto fishing written in python
 
 # Install Requirements
-You can use pip to run the following command to install requirements
+You can use `pip` to run the following command to install requirements
 ```sh
 pip install pywin32 numpy
 ```
