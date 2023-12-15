@@ -9,7 +9,8 @@ pip install pywin32 numpy
 
 # Usage
 - Make sure the Roblox window is maximized
-- Change the camera angle to top-down
+- Set Graphics Quality to 1
+- Move the camera angle to top-down
 - Click on the water
 - Run the program with this command & back to roblox
 ```sh
